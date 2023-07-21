@@ -16,10 +16,9 @@
 2. Открыть Терминал
    1. Установить Java командой "brew install openjdk@11"
    2. Установить Gradle командой "brew install gradle"
-3. Установить IntelliJ IDEA с официального сайта https://www.jetbrains.com/ru-ru/idea/download/#section=mac
-4. Установить Android Studio https://developer.android.com/studio/
-5. Открыть проект или клонировать (клонировать этот проект по инструкции https://www.jetbrains.com/idea/guide/tutorials/creating-a-project-from-github/clone-from-github/)
-6. Для запуска проекта в Android Studio нажмите на зеленый треугольник на панели сверху справа
+3. Установить Android Studio https://developer.android.com/studio/
+4. Открыть проект или клонировать (клонировать этот проект по инструкции https://www.jetbrains.com/idea/guide/tutorials/creating-a-project-from-github/clone-from-github/)
+5. Для запуска проекта в Android Studio нажмите на зеленый треугольник на панели сверху справа
 
 
 **Windows:**
@@ -27,10 +26,9 @@
 2. Открыть терминал
    1. Установить Java командой "choco install jdk11"
    2. Установить Gradle командой "choco install gradle"
-3. Установить IntelliJ IDEA с официального сайта https://www.jetbrains.com/ru-ru/idea/download/#section=windows
-4. Установить Android Studio https://developer.android.com/studio/
-5. Открыть проект или клонировать (клонировать этот проект по инструкции https://www.jetbrains.com/idea/guide/tutorials/creating-a-project-from-github/clone-from-github/)
-6. Для запуска проекта в Android Studio нажмите на зеленый треугольник на панели сверху справа
+3. Установить Android Studio https://developer.android.com/studio/
+4. Открыть проект или клонировать (клонировать этот проект по инструкции https://www.jetbrains.com/idea/guide/tutorials/creating-a-project-from-github/clone-from-github/)
+5. Для запуска проекта в Android Studio нажмите на зеленый треугольник на панели сверху справа
 
 ## Функционал проекта 
 
