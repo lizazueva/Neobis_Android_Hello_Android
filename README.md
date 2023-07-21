@@ -40,6 +40,10 @@
 
 <img width="216" alt="Снимок экрана 2023-07-21 в 17 24 03" src="https://github.com/lizazueva/Neobis_Android_Hello_Android/assets/56483500/c45aa59f-7b8b-4eb4-8f84-e8a8e1d60c96">
 
+## Автор проекта
+
+Автор проекта: lizazazu@gmail.com
+
 
 
 
